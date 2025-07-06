@@ -12,34 +12,11 @@ A clean and intuitive task management application built with React Native and Ex
 - **Task List**: View all tasks in a clean, organized list format
 - **Real-time Statistics**: Monitor your productivity with live-updating statistics
 
-### User Interface
-- **Clean Design**: Modern, intuitive interface using React Native components
-- **Purple Gradient Background**: Beautiful purple gradient backgrounds for a modern look
-- **Visual Feedback**: Clear indicators for task completion and user interactions
-- **Dark/Light Mode**: Automatic theme switching based on system preferences
-- **Responsive Layout**: Optimized for both iOS and Android devices
-- **Accessibility**: Built with accessibility best practices in mind
-
 ### State Management
 - **Shared Context**: Uses React Context API for global task state management
 - **Real-time Updates**: Statistics automatically update when tasks are modified
 - **Component State**: Demonstrates proper state and props usage in React Native
 - **No External Dependencies**: Simple and lightweight state management
-
-## Screenshots
-
-The app features two main screens:
-
-1. **Tasks Screen**: Main task management interface
-   - Add new tasks with title and description
-   - Mark tasks as complete/incomplete
-   - Delete tasks
-   - View task completion progress
-
-2. **Statistics Screen**: Real-time productivity insights
-   - Live-updating task completion statistics
-   - Recent activity overview based on actual tasks
-   - Productivity tips
 
 ## Getting Started
 
